@@ -1,0 +1,3 @@
+rootProject.name = 'Kotlin Learnings'
+rootProject.buildFileName = 'build.gradle.kts'
+
