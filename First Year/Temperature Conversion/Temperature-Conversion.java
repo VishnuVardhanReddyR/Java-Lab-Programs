@@ -5,7 +5,7 @@ class Celcius
     public static void main(String arg[])
 
     {
-        float c;
+        float Resultant-Teamperatue;
         System.out.println("enter the temperature value");
         System.out.println("enter the 1.cecius 2.farenheight");
         Scanner reader = new Scanner(System.in);  // Reading from System.in
@@ -15,13 +15,13 @@ class Celcius
 
         if(n==1)
         {
-              c=((temperature)*1.8)+32;
-            System.out.println("Temperatuer is"+ c);
+              Resultant-Teamperatue=((temperature)*1.8)+32;
+            System.out.println("Temperatuer is"+ Resultant-Teamperatue);
         }
         else
         {
-            c=((temperature-32)*5)/9;
-            System.out.println("Temperature is " + c);
+            Resultant-Teamperatue=((temperature-32)*5)/9;
+            System.out.println("Temperature is " + Resultant-Teamperatue);
         }
     }
 }
