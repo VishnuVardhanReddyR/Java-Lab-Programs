@@ -2,16 +2,19 @@ import java.util.*;
 
         class prime {
             public static void main(String arg[]) {
-                int n = 15
-                i
-                while(i)
-                if (n % 2 == 0||n%3==0||n%5==0)
-                {
-                    System.out.println("number is Not a Prime");
+                int number = 19, m, i;
+                m = number / 2;
+                for (i = 2; i < number; i++) {
+                    if (number % i == 0) {
+                        m = 3;
+                        System.out.println(i);
+                    }
+
                 }
+                if (m == 3)
+                    System.out.println("its is not prime");
+
                 else
-                    {
-                    System.out.println("number is Prime");
-                }
+                    System.out.println("it is prime" +number);
             }
         }

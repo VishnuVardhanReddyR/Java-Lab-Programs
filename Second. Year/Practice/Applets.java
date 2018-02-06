@@ -1,12 +1,15 @@
 import java.applet.Applet;
 import java.awt.Graphics;
-public class Applets extends Applet
+public class Applets
 {
 
-    public void paint(Graphics g)
+    public static void main (String [] args)
 
     {
-        g.drawString("Welcome To First",150,150);
+        System.out.println((3+5+6)/4);
+        System.out.println((3+5-4)/4.32);
+        double volume =4/3 * Math.pi *10;
+        System.out.println(volume);
     }
 
-}
+}git
