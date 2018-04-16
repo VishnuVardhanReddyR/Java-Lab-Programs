@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdd30222-3fb2-49d2-bca5-35f969009d82" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Java Test Programs/arrays.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/First Year/TestDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/First Year/temp.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Applet.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/First Year/Prime Number/Prime.java" afterPath="$PROJECT_DIR$/First Year/Prime Number/Prime.java" />
-      <change beforePath="$PROJECT_DIR$/First Year/Prime Number/prime.class" afterPath="$PROJECT_DIR$/First Year/Prime Number/prime.class" />
-      <change beforePath="$PROJECT_DIR$/Java Programming Practice/Applets.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Java Programming Practice/ArraysInsertion.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Practice/FactApp.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Second. Year/Applets/Applets.java" afterPath="$PROJECT_DIR$/Second. Year/Applets/Applets.java" />
-      <change beforePath="$PROJECT_DIR$/Second. Year/Practice/Applets.class" afterPath="$PROJECT_DIR$/Second. Year/Practice/Applets.class" />
       <change beforePath="$PROJECT_DIR$/Second. Year/Practice/Applets.java" afterPath="$PROJECT_DIR$/Second. Year/Practice/Applets.java" />
-      <change beforePath="$PROJECT_DIR$/Second. Year/Practice/ArraysInsertion.java" afterPath="$PROJECT_DIR$/Second. Year/Practice/ArraysInsertion.java" />
-      <change beforePath="$PROJECT_DIR$/first.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,16 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RowColDiagonalPrint.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../RowColDiagonalPrint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="66" lean-forward="false" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Applets.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Second. Year/Practice/Applets.class">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,14 +32,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Applets.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Applets.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Second. Year/Practice/Applets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="15">
+              <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/First Year/TestDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -154,12 +145,15 @@
         <option value="$PROJECT_DIR$/Java Test Programs/arrays.java" />
         <option value="$PROJECT_DIR$/Second. Year/Practice/ArraysInsertion.java" />
         <option value="$PROJECT_DIR$/Second. Year/Practice/Applets.java" />
+        <option value="$PROJECT_DIR$/Second. Year/Practice/Applets.java" />
+        <option value="$PROJECT_DIR$/First Year/temp.java" />
+        <option value="$PROJECT_DIR$/First Year/TestDemo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -179,9 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,17 +185,6 @@
               <item name="Java-Lab-Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Lab-Programs" type="462c0819:PsiDirectoryNode" />
               <item name="First Year" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Lab-Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Lab-Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="First Year" type="462c0819:PsiDirectoryNode" />
-              <item name="Algebraic Solutions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Lab-Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Lab-Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Java Test Programs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Lab-Programs" type="b2602c69:ProjectViewProjectNode" />
@@ -226,7 +207,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -350,7 +333,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -361,10 +345,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3132037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31318018" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31196582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -424,21 +408,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/First Year/Algebraic Solutions/Solutions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../RowColDiagonalPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="66" lean-forward="false" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java-Lab-Programs.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -479,7 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="66" lean-forward="false" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -532,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="66" lean-forward="false" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -685,20 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="66" lean-forward="false" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Second. Year/Practice/Applets.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1515527651000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1515527651000" expanded="true" signature="150:157" ph="{}" />
-            <marker date="1515527651000" expanded="true" signature="202:289" ph="{...}" />
-            <marker date="1515527651000" expanded="false" signature="283:289" ph=" }" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -752,13 +705,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Second. Year/Practice/Applets.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1515527651000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1515527651000" expanded="true" signature="150:157" ph="{}" />
+            <marker date="1515527651000" expanded="true" signature="202:289" ph="{...}" />
+            <marker date="1515527651000" expanded="false" signature="283:289" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First Year/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Second. Year/Practice/Applets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="15">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First Year/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
